@@ -1,0 +1,11 @@
+"メニューバーを表示する
+set guioptions+=m
+"ツールバーを表示する
+set guioptions+=T
+"左右のスクロールバーを表示する
+set guioptions+=r
+set guioptions+=R
+set guioptions+=l
+set guioptions+=L
+"水平スクロールバーを表示する
+set guioptions+=b
