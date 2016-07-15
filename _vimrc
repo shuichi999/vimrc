@@ -1,5 +1,6 @@
 set number
 set nowrap
+au FileType sql setl formatprg=/usr/local/bin/pg_format\ -
 "タブ、空白、改行の可視化
 set list
 set listchars=tab:>.,trail:_,eol:↲,extends:>,precedes:<,nbsp:%
